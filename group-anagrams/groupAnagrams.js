@@ -20,7 +20,7 @@
 let groupAnagrams = (strs)=>{
     const hashTable ={};
     for (let str of strs){
-        const sorted = str.split("").sort().join("")    // its called method chaining
+        const sorted = str.split("").sort().join("")   // its called method chaining
         // "abc" =====> ["a","b","c"]
         if(hashTable[sorted]){
             hashTable[sorted].push(str)

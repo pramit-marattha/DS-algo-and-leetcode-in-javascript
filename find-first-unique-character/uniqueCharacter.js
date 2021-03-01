@@ -50,7 +50,7 @@ let firstUnique = (s)=>{
     return -1;
 }
 
-// time complexity = o(2n)
+// time complexity = o(2n) 
 
 // beacuse of two loop 
 
