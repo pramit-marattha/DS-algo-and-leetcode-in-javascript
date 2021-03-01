@@ -14,7 +14,6 @@
     => sorted key in table? add to array
     => sorted key not in table? create the array
 
-
 */
 
 let groupAnagrams = (strs)=>{
@@ -30,6 +29,7 @@ let groupAnagrams = (strs)=>{
     }
    return Object.values(hashTable)
 }
+
 
 // sorting might be very expensive
 
