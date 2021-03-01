@@ -101,7 +101,7 @@ so we drop the 2 and remaining is the notation
 
 ### range of efficiency
 
-1)best 2) average 3) worst
+1)best case 2) average case 3) worst case
 
 code example =
 
