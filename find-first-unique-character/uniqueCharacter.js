@@ -62,9 +62,6 @@ let firstUnique = (s)=>{
 // which means the space complexity is O(n) 
 
 
-
-
-
 // solution 2 easy one
 
 let firstUnique = (s)=>{
