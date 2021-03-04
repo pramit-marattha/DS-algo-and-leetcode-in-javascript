@@ -41,7 +41,7 @@ order of efficiency
 
 example =>
 
-most efficient ==== > O(n) "constant"
+most efficient ==== > O(1) "constant"
 
                      O(log n) "logarithmic"
 
